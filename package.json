@@ -1,7 +1,8 @@
 {
-  "name": "site",
-  "private": true,
-  "version": "0.0.0",
+  "name": "esmerene.me",
+  "private": false,
+  "version": "0.0.1",
+  "homepage": "https://esmerene.me",
   "type": "module",
   "scripts": {
     "dev": "vite",
